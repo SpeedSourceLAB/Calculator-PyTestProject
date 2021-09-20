@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JobPortal/.idea/JobPortal.iml" filepath="$PROJECT_DIR$/../JobPortal/.idea/JobPortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyTest_Project.iml" filepath="$PROJECT_DIR$/.idea/PyTest_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ResPortal/.idea/ResPortal.iml" filepath="$PROJECT_DIR$/../ResPortal/.idea/ResPortal.iml" />
+    </modules>
+  </component>
+</project>
